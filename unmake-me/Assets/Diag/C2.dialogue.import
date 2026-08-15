@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dvm1ynu0ywm04"
+path="res://.godot/imported/C2.dialogue-fe311055ebc972710d682f4d3c8109d9.tres"
+
+[deps]
+
+source_file="res://Assets/Diag/C2.dialogue"
+dest_files=["res://.godot/imported/C2.dialogue-fe311055ebc972710d682f4d3c8109d9.tres"]
+
+[params]
+
+defaults=true

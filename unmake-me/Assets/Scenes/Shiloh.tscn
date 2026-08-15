@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://deak1oafcweoo"]
 
 [ext_resource type="Script" uid="uid://brl7gib36b45r" path="res://Assets/Scripts/Shiloh.gd" id="1_71tb3"]
-[ext_resource type="Texture2D" uid="uid://cy3gdtb5cryhe" path="res://Assets/Sprites/Shiloh.png" id="3_t1xgp"]
+[ext_resource type="Texture2D" uid="uid://dg3g4ix7a41rs" path="res://Assets/Sprites/Umake_me-Shiloh.png" id="2_71tb3"]
 
 [sub_resource type="Animation" id="Animation_23lac"]
 length = 0.001
@@ -30,7 +30,7 @@ tracks/0/keys = {
 "times": PackedFloat32Array(0),
 "transitions": PackedFloat32Array(1),
 "update": 0,
-"values": [Rect2(10, 32, 16, 16)]
+"values": [Rect2(0, 0, 16, 16)]
 }
 
 [sub_resource type="Animation" id="Animation_c3tg1"]
@@ -45,7 +45,7 @@ tracks/0/keys = {
 "times": PackedFloat32Array(0),
 "transitions": PackedFloat32Array(1),
 "update": 0,
-"values": [Rect2(44, 32, 16, 16)]
+"values": [Rect2(0, 46, 16, 16)]
 }
 
 [sub_resource type="Animation" id="Animation_lerqx"]
@@ -62,7 +62,7 @@ tracks/0/keys = {
 "times": PackedFloat32Array(0, 0.25),
 "transitions": PackedFloat32Array(1, 1),
 "update": 0,
-"values": [Rect2(10, 0, 16, 16), Rect2(40, 0, 16, 16)]
+"values": [Rect2(0, 0, 16, 16), Rect2(16, 0, 16, 16)]
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_jp3cw"]
@@ -98,7 +98,7 @@ zoom = Vector2(6, 6)
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=596296410]
 position = Vector2(-2, -5)
 scale = Vector2(1.0354166, 1)
-texture = ExtResource("3_t1xgp")
+texture = ExtResource("2_71tb3")
 region_enabled = true
 region_rect = Rect2(10, 0, 16, 16)
 

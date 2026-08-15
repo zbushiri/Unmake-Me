@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cjiyp81wmitep"
+path="res://.godot/imported/C5.dialogue-50575631cc8edf54bc4ca99cf7760a8b.tres"
+
+[deps]
+
+source_file="res://Assets/Diag/C5.dialogue"
+dest_files=["res://.godot/imported/C5.dialogue-50575631cc8edf54bc4ca99cf7760a8b.tres"]
+
+[params]
+
+defaults=true

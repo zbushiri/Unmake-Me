@@ -1,0 +1,15 @@
+~ start
+ACT I MONSTER: You crawl through the filth just like I do. Let's see if your mind is as broken as your body
+The person who makes it has no need of it; the person who buys it has no use for it. The person who uses it can neither see nor feel it. What is it?
+
+- A coffin
+	MONSTER: Good answer you may pass
+	=> END
+
+- A deathbed
+	MONSTER: WRONG
+	=> start
+
+- A dumpster
+	MONSTER: WRONG
+	=> start
